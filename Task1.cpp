@@ -1,4 +1,5 @@
 #Number guessing game
+
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
